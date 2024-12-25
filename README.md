@@ -1,0 +1,1 @@
+This repository contains a simple Rust program that demonstrates an out-of-bounds vector access error. The program attempts to access an element in a vector using an index that is greater than or equal to the vector's length.  The solution demonstrates how to prevent this error using proper bounds checking.
